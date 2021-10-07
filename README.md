@@ -2,7 +2,7 @@
 
 This repository contains the code that one would eventually have were they to go through the [Django Girls tutorial](https://tutorial.djangogirls.org/en/).
 
-[![CircleCI](https://circleci.com/gh/NdagiStanley/django_girls_complete.svg?style=svg)](https://circleci.com/gh/NdagiStanley/django_girls_complete)
+[![CircleCI](https://circleci.com/gh/IM-Deane/circleci-test/tree/circleci.svg?style=svg)](https://circleci.com/gh/IM-Deane/circleci-test/tree/circleci)
 
 ## Differences
 
